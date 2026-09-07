@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsAutorization" targetNamespace="http://tempuri.org/dsAutorization.xsd" xmlns:mstns="http://tempuri.org/dsAutorization.xsd" xmlns="http://tempuri.org/dsAutorization.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsAutorization" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsAutorization" msprop:Generator_DataSetName="dsAutorization">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Пользователи" msprop:Generator_RowEvHandlerName="ПользователиRowChangeEventHandler" msprop:Generator_RowDeletedName="ПользователиRowDeleted" msprop:Generator_RowDeletingName="ПользователиRowDeleting" msprop:Generator_RowEvArgName="ПользователиRowChangeEvent" msprop:Generator_TablePropName="Пользователи" msprop:Generator_RowChangedName="ПользователиRowChanged" msprop:Generator_RowChangingName="ПользователиRowChanging" msprop:Generator_TableClassName="ПользователиDataTable" msprop:Generator_RowClassName="ПользователиRow" msprop:Generator_TableVarName="tableПользователи" msprop:Generator_UserTableName="Пользователи">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id_user" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_ColumnPropNameInRow="Id_user" msprop:Generator_ColumnPropNameInTable="Id_userColumn" msprop:Generator_ColumnVarNameInTable="columnId_user" msprop:Generator_UserColumnName="Id_user" type="xs:int" />
+              <xs:element name="login_user" msprop:Generator_ColumnPropNameInRow="login_user" msprop:Generator_ColumnPropNameInTable="login_userColumn" msprop:Generator_ColumnVarNameInTable="columnlogin_user" msprop:Generator_UserColumnName="login_user">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Password_user" msprop:Generator_ColumnPropNameInRow="Password_user" msprop:Generator_ColumnPropNameInTable="Password_userColumn" msprop:Generator_ColumnVarNameInTable="columnPassword_user" msprop:Generator_UserColumnName="Password_user">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Id_access_level" msprop:Generator_ColumnPropNameInRow="Id_access_level" msprop:Generator_ColumnPropNameInTable="Id_access_levelColumn" msprop:Generator_ColumnVarNameInTable="columnId_access_level" msprop:Generator_UserColumnName="Id_access_level" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Пользователи" />
+      <xs:field xpath="mstns:Id_user" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

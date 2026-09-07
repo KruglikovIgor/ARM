@@ -1,0 +1,44 @@
+D:\Programming\ITMO\Diplom\ARM\bin\Debug\ARM.exe.config
+D:\Programming\ITMO\Diplom\ARM\bin\Debug\ARM.exe
+D:\Programming\ITMO\Diplom\ARM\bin\Debug\ARM.pdb
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.csproj.AssemblyReference.cache
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmWelcome.resources
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.Properties.Resources.resources
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.csproj.GenerateResource.cache
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.exe
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.pdb
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmMain.resources
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmDetailed.resources
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmEdit.resources
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmAddUpd.resources
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\bin\Debug\ARM.exe.config
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\bin\Debug\ARM.exe
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\bin\Debug\ARM.pdb
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.csproj.AssemblyReference.cache
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.frmWelcome.resources
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.frmAddUpd.resources
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.frmDetailed.resources
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.frmEdit.resources
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.frmMain.resources
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.Properties.Resources.resources
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.csproj.GenerateResource.cache
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.csproj.CoreCompileInputs.cache
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.exe
+D:\Programming\ITMO\Diplom\ARM (21.05.2025)\obj\Debug\ARM.pdb
+D:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmAutorization.resources
+C:\Programming\ITMO\Diplom\ARM\bin\Debug\ARM.exe.config
+C:\Programming\ITMO\Diplom\ARM\bin\Debug\ARM.exe
+C:\Programming\ITMO\Diplom\ARM\bin\Debug\ARM.pdb
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.csproj.AssemblyReference.cache
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmWelcome.resources
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmAddUpd.resources
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmAutorization.resources
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmDetailed.resources
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmEdit.resources
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.frmMain.resources
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.Properties.Resources.resources
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.csproj.GenerateResource.cache
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.csproj.CoreCompileInputs.cache
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.exe
+C:\Programming\ITMO\Diplom\ARM\obj\Debug\ARM.pdb
